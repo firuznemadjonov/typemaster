@@ -1,0 +1,30 @@
+
+.header__container{
+display: flex;
+align-items: center;
+justify-content: space-between;
+padding-bottom: 6.4rem;
+padding-top: 6.4rem;
+}
+
+
+.header__link__logo:hover{
+  background-color: $orange-light-color;
+}
+
+.hero__img{
+  margin-bottom: 3rem;
+}
+
+.header__link:hover {
+  background-color: $dark-green-color;
+  color: $white-color;
+}
+.hero__link-right{
+  color: $silver-color;
+}
+
+.hero__link-right:hover{
+  background-color: $dark-green-color;
+  color: $silver-color;
+}
